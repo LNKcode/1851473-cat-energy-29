@@ -34,7 +34,7 @@
 
 @media (min-width: $desktop-width) {
   .instruction__list {
-    grid-template-columns: repeat(4, 249px);
+    grid-template-columns: repeat(4, 1fr);
     gap: 37px 77px;
   }
 }
